@@ -14,3 +14,10 @@ The following files are used:
 All those files are gathered from the internet:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
+# How the script 'run_analysis.R' works
+1. The script reads Samsung data (from zip-file)
+2. It merges training and test data sets
+3. Mean of the values are calculated and gathered in a tidy dataset
+4. Variables names are made comprehensive to understand
+
+   
